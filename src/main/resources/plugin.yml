@@ -1,0 +1,10 @@
+name: PlaytimeLeaderboard
+version: 1.0.0
+main: com.dev.mrtroxy.playtimeleaderboard.PlaytimeLeaderboard
+commands:
+  leaderboard:
+    description: Shows the playtime leaderboard.
+    usage: /leaderboard
+  top10:
+    description: Shows the top 10 players by playtime.
+    usage: /top10
