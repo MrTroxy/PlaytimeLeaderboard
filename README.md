@@ -1,6 +1,5 @@
 # Playtime Leaderboard Plugin
 
-![GitHub License](https://img.shields.io/github/license/yourusername/PlaytimeLeaderboard)
 ![Spigot Version](https://img.shields.io/badge/Spigot-1.8%2B-blue)
 ![Java Version](https://img.shields.io/badge/Java-8%2B-green)
 
@@ -21,7 +20,7 @@
 
 1. **Download the Plugin:**
    
-   - [Download Playtime Leaderboard.jar](https://download.com)
+   - [Download Playtime Leaderboard.jar](https://github.com/MrTroxy/PlaytimeLeaderboard/releases/download/1.0.0/PlaytimeLeaderboard-1.0.0.jar)
 
 2. **Place the Plugin:**
    
@@ -87,7 +86,7 @@ The plugin uses a `playtime_data.yml` file to store playtime data. This file is 
 1. **Clone the Repository:**
    
    ```bash
-   git clone https://github.com/yourusername/PlaytimeLeaderboard.git
+   git clone https://github.com/MrTroxy/PlaytimeLeaderboard.git
    ```
 
 2. **Navigate to the Project Directory:**
