@@ -1,11 +1,11 @@
 # Playtime Leaderboard Plugin
 
-![Spigot Version](https://img.shields.io/badge/Spigot-1.8%2B-blue)
-![Java Version](https://img.shields.io/badge/Java-8%2B-green)
+![Spigot Version](https://img.shields.io/badge/Spigot-1.12.1%2B-blue)
+![Java Version](https://img.shields.io/badge/Java-21%2B-green)
 
 ## Overview
 
-**Playtime Leaderboard** is a Spigot plugin designed for Minecraft servers running on Spigot 1.8 and later versions. It tracks and displays player playtime in real-time, allowing server administrators and players to view leaderboards showcasing the top contributors based on their time spent on the server.
+**Playtime Leaderboard** is a Spigot plugin designed for Minecraft servers running 1.21.1 and later versions. It tracks and displays player playtime in real-time, allowing server administrators and players to view leaderboards showcasing the top contributors based on their time spent on the server.
 
 ## Features
 
@@ -20,7 +20,7 @@
 
 1. **Download the Plugin:**
    
-   - [Download Playtime Leaderboard.jar](https://github.com/MrTroxy/PlaytimeLeaderboard/releases/download/1.0.0/PlaytimeLeaderboard-1.0.0.jar)
+   - [Download Playtime Leaderboard.jar](https://github.com/MrTroxy/PlaytimeLeaderboard/releases/download/1.0.1/PlaytimeLeaderboard-1.0.0.jar)
 
 2. **Place the Plugin:**
    
@@ -78,8 +78,8 @@ The plugin uses a `playtime_data.yml` file to store playtime data. This file is 
 
 ### Requirements
 
-- **Java:** JDK 8
-- **Spigot API:** 1.8 and above
+- **Java:** JDK 21
+- **Spigot API:** 1.21.1 and above
 
 ### Building from Source
 
