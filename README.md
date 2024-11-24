@@ -20,7 +20,7 @@
 
 1. **Download the Plugin:**
    
-   - [Download Playtime Leaderboard.jar](https://github.com/MrTroxy/PlaytimeLeaderboard/releases/download/1.0.1/PlaytimeLeaderboard-1.0.0.jar)
+   - [Download Playtime Leaderboard.jar](https://github.com/MrTroxy/PlaytimeLeaderboard/releases/download/1.0.1/PlaytimeLeaderboard-1.0.1.jar)
 
 2. **Place the Plugin:**
    
