@@ -1,6 +1,6 @@
 # Playtime Leaderboard Plugin
 
-![Spigot Version](https://img.shields.io/badge/Spigot-1.12.1%2B-blue)
+![Spigot Version](https://img.shields.io/badge/Spigot-1.21.1%2B-blue)
 ![Java Version](https://img.shields.io/badge/Java-21%2B-green)
 
 ## Overview
